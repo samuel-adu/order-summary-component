@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-built-using-html-and-css-only-maq_td-lj9](https://www.frontendmentor.io/solutions/order-summary-component-built-using-html-and-css-only-maq_td-lj9)
-- Live Site URL: [https://order-summary-component-rust-eight.vercel.app/](https://order-summary-component-rust-eight.vercel.app/)
+- Live Site URL: [https://order-summary-component-rust-eight.vercel.app/](https://order-summary-component-rust-eight.vercel.app)
 
 ## My process
 
